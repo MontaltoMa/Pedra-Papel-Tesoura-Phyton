@@ -1,2 +1,2 @@
-# Pedra-Papel-Tesoura-Phyton
+# Pedra-Papel-Tesoura-Python
 Código simples em phyton
