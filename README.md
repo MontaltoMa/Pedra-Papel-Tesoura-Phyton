@@ -1,2 +1,2 @@
 # Pedra-Papel-Tesoura-Python
-Código simples em phyton
+Código simples em python
